@@ -1,0 +1,5 @@
+{
+  "name": "Pantheon IAM Sentinel",
+  "description": "A world-class, enterprise-grade IAM policy lifecycle management and visualization platform powered by Gemini AI. It provides deep policy analysis, multi-cloud simulation, and automated remediation workflows.",
+  "requestFramePermissions": []
+}
